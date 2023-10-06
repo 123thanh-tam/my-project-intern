@@ -15,7 +15,9 @@
 					<div>
 						<div>
 							<h6 class="text-xs mb-2">Số điện thoại*</h6>
-							<input type="text" class="w-96 outline-none py-2 px-3 border-1px border-gray-300" placeholder="Nhập số điện thoại của bạn">
+							<input v-model="formInput.phoneNumber" type="text" class="w-96 outline-none py-2 px-3 border-1px border-gray-300" placeholder="Nhập số điện thoại của bạn">
+							<p class="text-xs text-red-700">{{ValidatePhoneNumber ? "" : "Vui lòng nhập chính xác số điện thoại"}}</p>
+							<p id="errPhone" class="text-xs text-red-700"></p>
 						</div>
 						<div class=" flex my-3">
 							<p class="text-white py-2 px-3 bg-gradient-to-tl from-[#17ca9d] to-[#02af83] z-10 shadow-slip-shadow ">>></p>
@@ -23,7 +25,9 @@
 						</div>
 						<div class="mt-5">
 							<h6 class="text-xs mb-2">Mật khẩu*</h6>
-							<input type="text" class="w-96 outline-none py-2 px-3 border-1px border-gray-300" placeholder="Tối thiểu 8 ký tự với số, chữ cái và ký tự">
+							<input v-model="formInput.password" type="text" class="w-96 outline-none py-2 px-3 border-1px border-gray-300" placeholder="Tối thiểu 8 ký tự với số, chữ cái và ký tự">
+							<p class="w-96 text-xs text-red-700">{{ValidatePass ? "" : "Mật khẩu phải có ít nhất một số, một chữ in hoa, một chữ in thường và kí tự đặc biệt"}}</p>
+							<p id="errPass" class="text-xs text-red-700">[ </p>
 						</div>
 						<div class="">
 							<div class="flex justify-between mt-5">
@@ -59,13 +63,15 @@
 					<div>
 						<div class="">
 							<h6 class="text-xs mb-2">Họ tên*</h6>
-							<input type="text" class="w-19rem outline-none py-2 px-3 border-1px border-gray-300" placeholder="Họ tên">
+							<input v-model="formInput.fullName" type="text" class="w-19rem outline-none py-2 px-3 border-1px border-gray-300" placeholder="Họ tên">
+							<p class="text-xs text-red-700">{{ValidateFullName ? "" : "Vui lòng nhập đúng họ tên"}}</p>
+							<p id="errName" class="text-xs text-red-700"></p>
 						</div>
 						<div class="mt-6">
 							<input type="checkbox" class="outline-none w-5 h-5">
 							<span class="inline-block text-xs ml-2 text-gray-500">Tôi muốn cập nhật thông tin ưu đãi qua SMS</span>
 						</div>
-						<p class="mt-3 text-sm cursor-pointer w-19rem h-11 leading-44px text-center text-white bg-orange-custome rounded-sm hover:bg-login-hover">ĐĂNG NHẬP</p>
+						<p @click="submitForm" class="mt-3 text-sm cursor-pointer w-19rem h-11 leading-44px text-center text-white bg-orange-custome rounded-sm hover:bg-login-hover">ĐĂNG KÝ</p>
 						<div>
 							<p class="text-xs text-gray-500 w-18.5rem mt-2">
 								Tôi đã đọc và đồng ý với <span class="text-forget-pass cursor-pointer">Điều Khoản Sử Dụng</span> và <span class="cursor-pointer text-forget-pass">Chính Sách Bảo Mật của Lazada của Lazada</span>, bao gồm quyền thu thập, sử dụng, và tiết lộ dữ liệu cá nhân của tôi theo pháp luật quy định.
@@ -103,23 +109,74 @@ import FooterSecond from '@/components/Footer/FooterSecond.vue';
 import FooterFirstVue from '@/components/Footer/FooterFirst.vue';
 import FooterFourth from '@/components/Footer/FooterFourth.vue';
 export default {
+	data(){
+		return{
+			formInput: {
+			phoneNumber: "",
+			password:"",
+			fullName: ""
+		},
+		MessErr: "Vui long khong bo trong truong nay",
+		}
+	},
 	components:{
-	HeaderBig,
-	// Icon,
-	FooterSecond,
-	FooterFirstVue,
-	FooterFourth
+		HeaderBig,
+		// Icon,
+		FooterSecond,
+		FooterFirstVue,
+		FooterFourth
 },
-data(){
-	return{
-	}
-},
+
 computed : {
     years () {
       const year = new Date().getFullYear()
       return Array.from({length: year - 1900}, (value, index) => year - index)
     },
+		ValidatePhoneNumber(){
+		if(this.formInput.phoneNumber==""){
+			return true
+		}
+			let phoneRegex= /(84|0[3|5|7|8|9])+([0-9]{8})\b/;
+			return phoneRegex.test(this.formInput.phoneNumber)
+		},
+		ValidatePass(){
+			if(this.formInput.password===""){
+				return true
+			}
+			let passRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/
+			return passRegex.test(this.formInput.password)
+		},
+		ValidateFullName(){
+			if(this.formInput.fullName===""){
+				return true
+			}
+			let fullNameRegex= /[a-zA-Z_ÀÁÂÃÈÉÊẾÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêếìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]/
+			return fullNameRegex.test(this.formInput.fullName)
+		}
   },
+	methods:{
+		submitForm(){
+			let phoneRegex= /(84|0[3|5|7|8|9])+([0-9]{8})\b/;
+			let passRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/
+			let fullNameRegex= /[a-zA-Z_ÀÁÂÃÈÉÊẾÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêếìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]/
+			if(phoneRegex.test(this.formInput.phoneNumber &&
+			passRegex.test(this.formInput.password &&
+			fullNameRegex.test(this.formInput.fullName)))){
+				alert("Đăng kí thành công")
+				phoneErr.innerHTML= ""
+					passErr.innerHTML= ""
+					nameErr.innerHTML= ""
+			}
+			if(this.formInput.phoneNumber==="" && this.formInput.password==="" && this.formInput.fullName===""){
+					var phoneErr = document.getElementById('errPhone')
+					var passErr = document.getElementById('errPass')
+					var nameErr = document.getElementById('errName')
+					phoneErr.innerHTML= this.MessErr
+					passErr.innerHTML= this.MessErr
+					nameErr.innerHTML= this.MessErr
+			}
+		}
+	}
 
 
 }

@@ -19,7 +19,7 @@
 						<p class="text-xs text-forget-pass text-right mt-4 cursor-pointer">Quên mật khẩu?</p>
 					</div>
 					<div>
-						<p class="text-sm w-19rem h-11 leading-44px text-center text-white bg-orange-custome rounded hover:bg-login-hover" @click="submitFrom()">ĐĂNG NHẬP</p>
+						<p class="text-sm w-19rem h-11 leading-44px text-center text-white bg-orange-custome rounded hover:bg-login-hover" @click="submitForm()">ĐĂNG NHẬP</p>
 						<span class="inline-block text-xs text-gray-500 my-4">Hoặc đăng nhập bằng</span>
 						<p class="rounded w-19w h-10 bg-facebook leading-10 text-center text-lg text-white">
 							<Icon class="text-white inline-block" icon="eva:facebook-fill" />
@@ -85,10 +85,10 @@ computed:{
 }
 ,
 methods:{
-	submitFrom: function(){
+	submitForm: function(){
 		var emailRegex = /^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/;
 		if(emailRegex.test(this.formInput.email) && this.formInput.password.length > 6){
-			alert("Dang nhap thanh cong");
+			alert("Đăng nhập thành công");
 		}
 		var emailErr = document.getElementById('errEmail')
 		var passErr = document.getElementById('errPass')
