@@ -1,0 +1,975 @@
+{
+  "products": [
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/c11ef9f086c57c938d16a69abdb90eaa.jpg_400x400q80.jpg_.webp",
+      "priceFirst": 90.000,
+      "sale": "-10%",
+      "price": 70.000,
+      "script": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY GIÒN (NGUYÊN LIỆU LÀM KẸO NOUGAT) - ĐỒ ĂN VẶT - ĂN VẶT - BÁCH HÓA ONLINE UY TÍN - ăn vặt siêu ngon",
+      "scriptCut": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY GIÒN...",
+      "id": 1,
+      "sold": 789
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/69f38a7929e561d8128bf169253d9e87.jpg_400x400q80.jpg_.webp",
+      "priceFirst": 430.000,
+      "sale": "-56%",
+      "price": 190.000,
+      "script": "Loa bluetooth mini karaoke kèm mic GOOJODOQ Không dây Bass cực mạnh - Bảo hành chính hãng",
+      "scriptCut": "Loa bluetooth mini karaoke kèm mic GOOJODOQ...",
+      "id": 2,
+      "sold": 456
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/ef75f53843850860abe4ad4f1a94d916.jpg_400x400q80.jpg_.webp",
+      "priceFirst": 90.000,
+      "sale": "-24%",
+      "price": 68.000,
+      "script": "Kẹo dừa non lá dứa cuộn bánh tráng thơm ngon 200g/ 500g/ 1kg - bánh kẹo tết - mứt tết - đồ ăn vặt",
+      "scriptCut": "Kẹo dừa non lá dứa cuộn bánh tráng thơm...",
+      "id": 3,
+      "sold": 26
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/e86a2c1a6b7e004c2d874441d0ccc814.jpg_400x400q80.jpg_.webpp",
+      "priceFirst": 100.000,
+      "sale": "-37%",
+      "price": 63.000,
+      "script": "Súng bắn bong bóng súng phun bong bóng 32 nòng có đèn siêu hot",
+      "scriptCut": "Súng bắn bong bóng súng phun bong...",
+      "id": 4,
+      "sold":1200
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/2faef0e3976ece7548e9c0cea1b52976.jpg_400x400q80.jpg_.webp",
+      "priceFirst": 249.000,
+      "sale": "-47%",
+      "price": 131.000,
+      "script": "Pin Sạc Dự Phòng Dung Lượng Cao 20000mAh 4 Đầu Ra Cho Thiết Bị Di Động,Tích Hợp Đèn Pin Ban Đêm",
+      "scriptCut": "Pin Sạc Dự Phòng Dung Lượng Cao 20000mAh 4...",
+      "id": 5,
+      "sold": 113
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/ccd53bee50653928c85316e4634beab7.jpg_400x400q80.jpg_.webp",
+      "priceFirst": 129.000,
+      "sale": "-29%",
+      "price": 91.000,
+      "script": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ tay lò xo đàn hồi Titan 20kg, 30kg, 40kg, 50kg, 60kg kháng lực tập gym ZataVn - GTT",
+      "scriptCut": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ...",
+      "id": 6,
+      "sold": 234
+    }
+  ],
+  "productsLaz":[
+		{
+			"img": "https://lzd-img-global.slatic.net/g/p/d4679bca2d5a64a979841c36232d1e46.jpg_400x400q80.jpg_.webp",
+			"imgBrand": "https://lzd-img-global.slatic.net/g/shop/85843141db5651c3e46c8c63072e9bb9.jpeg_120x120q80.jpg_.webp",
+			"nameBrand": "Thảo Nguyên Shop",
+			"id": 1
+		},
+		{
+			"img": "https://lzd-img-global.slatic.net/g/ff/kf/Sbcecc294997f4c7388157461aee082e42.jpg_400x400q80.jpg_.webp",
+			"imgBrand": "https://lzd-img-global.slatic.net/g/shop/60a3b4d21ed9152a0f910f9ad03750b9.jpeg_120x120q80.jpg_.webp",
+			"nameBrand": "Thiên Hương Shop",
+			"id": 2
+		},
+		{
+			"img": "https://lzd-img-global.slatic.net/g/p/f2a0a07450e1dd6ff2b005efba136f28.jpg_400x400q80.jpg_.webp",
+			"imgBrand": "https://lzd-img-global.slatic.net/g/shop/ff02bdbac43136895f66f7b5a5dc318a.jpeg_120x120q80.jpg_.webp",
+			"nameBrand": "Anello",
+			"id": 3
+		},
+		{
+			"img": "https://lzd-img-global.slatic.net/g/p/37659afd8b724a70462ae8b707463045.jpg_400x400q80.jpg_.webp",
+			"imgBrand": "https://lzd-img-global.slatic.net/g/shop/c1c137616ef974aa66b313ade0be89ce.jpeg_120x120q80.jpg_.webp",
+			"nameBrand": "Dosreal",
+			"id": 4
+		}
+		,{
+			"img": "https://lzd-img-global.slatic.net/g/p/8f3f64c8b5c87a6268d4295615527cc0.jpg_400x400q80.jpg_.webp",
+			"imgBrand": "https://lzd-img-global.slatic.net/g/shop/504fa8fc401ef8af8990f56e7c13fa3f.png_120x120q80.jpg_.webp",
+			"nameBrand": "Kymdan",
+			"id": 5
+		},
+		{
+			"img": "https://lzd-img-global.slatic.net/g/p/2910a069442227e89712101e254d2896.jpg_400x400q80.jpg_.webp",
+			"imgBrand": "https://lzd-img-global.slatic.net/g/shop/5e04cac41e462681117f4c12b2395580.png_120x120q80.jpg_.webp",
+			"nameBrand": "DK Harvest",
+			"id": 6
+		}
+	],
+  "products-catalog":[
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/78051d1b862387c5ca1c5f5410b5ebd8.png_170x170q80.jpg_.webp",
+      "name": "Đồ chơi gỗ",
+      "id": 1
+
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/69f38a7929e561d8128bf169253d9e87.jpg_170x170q80.jpg_.webp",
+      "name": "Loa không dây & loa Bluetooth",
+      "id": 2
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/f85144be68b3b7544917216700016de4.jpg_170x170q80.jpg_.webp",
+      "name": "Pin sạc dự phòng",
+      "id": 3
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/8fbaddb0ce04518da6b628b637cb20e5.jpg_170x170q80.jpg_.webp",
+      "name": "Đồ chơi bọt xốp",
+      "id": 4
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/aa78f191324d1c5091a5e02b2d7f4338.jpg_170x170q80.jpg_.webp",
+      "name": "Kẹo dẻo",
+      "id": 5
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/a524041be92d73216b7433deb193eddb.jpg_170x170q80.jpg_.webp",
+      "name": "Dụng cụ tập lực tay",
+      "id": 6
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/9f23a02fd03fc89e534cd9552966e855.png_170x170q80.jpg_.webp",
+      "name": "Xe mô hình die-cast",
+      "id": 7
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/5649be61f9b14503bdd780626c55bcd1.jpg_170x170q80.jpg_.webp",
+      "name": "Tai nghe nhét tai không dây",
+      "id": 8
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/cad4195611adf9bb210f66caf8fe31dc.png_170x170q80.jpg_.webp",
+      "name": "Điện thoại di động",
+      "id": 9
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/1f3506b5ccfd321655510091b18cb715.jpg_170x170q80.jpg_.webp",
+      "name": "Bộ sạc có dây",
+      "id": 10
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/44b1d4ccf1ad73145a95435be4f7e39d.png_170x170q80.jpg_.webp",
+      "name": "Dầu gội",
+      "id": 11
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/5d8186ab13b78e6ea946c87edbad782c.jpg_170x170q80.jpg_.webp",
+      "name": "Cap & Dock sạc",
+      "id": 12
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/23a65be0dc54c4978a20832ba88be9a6.jpg_170x170q80.jpg_.webp",
+      "name": "Kem chống nắng",
+      "id": 13
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/a3d8f62e595a8f02eeeedace0bfb3189.jpg_170x170q80.jpg_.webp",
+      "name": "Camera kết nối Internet",
+      "id": 14
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/701949d0215d4a774e5a262559873024.jpg_170x170q80.jpg_.webp",
+      "name": "Micro",
+      "id": 15
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/p/b2a64589d46908b51a9c87478ef32e9a.png_170x170q80.jpg_.webp",
+      "name": "Đồng hồ thông minh",
+      "id": 16
+    }
+    
+  ],
+  "products-special":[
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/c11ef9f086c57c938d16a69abdb90eaa.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 90.000,
+        "sale": "-10%",
+        "price": 70.000,
+        "script": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY GIÒN (NGUYÊN LIỆU LÀM KẸO NOUGAT) - ĐỒ ĂN VẶT - ĂN VẶT - BÁCH HÓA ONLINE UY TÍN - ăn vặt siêu ngon",
+        "scriptCut": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY...",
+        "id": 1,
+        "sold": 106
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/69f38a7929e561d8128bf169253d9e87.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 430.000,
+        "sale": "-56%",
+        "price": 190.000,
+        "script": "Loa bluetooth mini karaoke kèm mic GOOJODOQ Không dây Bass cực mạnh - Bảo hành chính hãng",
+        "scriptCut": "Loa bluetooth mini karaoke kèm mic...",
+        "id": 2,
+        "sold": 3488
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/ef75f53843850860abe4ad4f1a94d916.jpg_400x400q80.jpg_.webp",
+        "originPrice": 90.000,
+        "sale": "-24%",
+        "price": 68.000,
+        "script": "Kẹo dừa non lá dứa cuộn bánh tráng thơm ngon 200g/ 500g/ 1kg - bánh kẹo tết - mứt tết - đồ ăn vặt",
+        "scriptCut": "Kẹo dừa non lá dứa cuộn bánh tráng thơm...",
+        "id": 3,
+        "sold":709 
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/e86a2c1a6b7e004c2d874441d0ccc814.jpg_400x400q80.jpg_.webpp",
+        "priceFirst": 100.000,
+        "sale": "-37%",
+        "price": 63.000,
+        "script": "Súng bắn bong bóng súng phun bong bóng 32 nòng có đèn siêu hot",
+        "scriptCut": "Súng bắn bong bóng súng phun bong...",
+        "id": 4,
+        "sold":  421
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/2faef0e3976ece7548e9c0cea1b52976.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 249.000,
+        "sale": "-47%",
+        "price": 131.000,
+        "script": "Pin Sạc Dự Phòng Dung Lượng Cao 20000mAh 4 Đầu Ra Cho Thiết Bị Di Động,Tích Hợp Đèn Pin Ban Đêm",
+        "scriptCut": "Pin Sạc Dự Phòng Dung Lượng Ca...",
+        "id": 5,
+        "sold":  506
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/ccd53bee50653928c85316e4634beab7.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 129.000,
+        "sale": "-29%",
+        "price": 91.000,
+        "script": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ tay lò xo đàn hồi Titan 20kg, 30kg, 40kg, 50kg, 60kg kháng lực tập gym ZataVn - GTT",
+        "scriptCut": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ...",
+        "id": 6,
+        "sold":  322
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/c11ef9f086c57c938d16a69abdb90eaa.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 90.000,
+        "sale": "-10%",
+        "price": 70.000,
+        "script": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY GIÒN (NGUYÊN LIỆU LÀM KẸO NOUGAT) - ĐỒ ĂN VẶT - ĂN VẶT - BÁCH HÓA ONLINE UY TÍN - ăn vặt siêu ngon",
+        "scriptCut": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY...",
+        "id": 7,
+        "sold": 106
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/69f38a7929e561d8128bf169253d9e87.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 430.000,
+        "sale": "-56%",
+        "price": 190.000,
+        "script": "Loa bluetooth mini karaoke kèm mic GOOJODOQ Không dây Bass cực mạnh - Bảo hành chính hãng",
+        "scriptCut": "Loa bluetooth mini karaoke kèm mic...",
+        "id": 8,
+        "sold": 3488
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/ef75f53843850860abe4ad4f1a94d916.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 90.000,
+        "sale": "-24%",
+        "price": 68.000,
+        "script": "Kẹo dừa non lá dứa cuộn bánh tráng thơm ngon 200g/ 500g/ 1kg - bánh kẹo tết - mứt tết - đồ ăn vặt",
+        "scriptCut": "Kẹo dừa non lá dứa cuộn bánh tráng thơm...",
+        "id": 9,
+        "sold":709 
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/e86a2c1a6b7e004c2d874441d0ccc814.jpg_400x400q80.jpg_.webpp",
+        "priceFirst": 100.000,
+        "sale": "-37%",
+        "price": 63.000,
+        "script": "Súng bắn bong bóng súng phun bong bóng 32 nòng có đèn siêu hot",
+        "scriptCut": "Súng bắn bong bóng súng phun bong...",
+        "id": 10,
+        "sold":  421
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/2faef0e3976ece7548e9c0cea1b52976.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 249.000,
+        "sale": "-47%",
+        "price": 131.000,
+        "script": "Pin Sạc Dự Phòng Dung Lượng Cao 20000mAh 4 Đầu Ra Cho Thiết Bị Di Động,Tích Hợp Đèn Pin Ban Đêm",
+        "scriptCut": "Pin Sạc Dự Phòng Dung Lượng Ca...",
+        "id": 11,
+        "sold":  506
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/ccd53bee50653928c85316e4634beab7.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 129.000,
+        "sale": "-29%",
+        "price": 91.000,
+        "script": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ tay lò xo đàn hồi Titan 20kg, 30kg, 40kg, 50kg, 60kg kháng lực tập gym ZataVn - GTT",
+        "scriptCut": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ...",
+        "id": 12,
+        "sold":  322
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/c11ef9f086c57c938d16a69abdb90eaa.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 90.000,
+        "sale": "-10%",
+        "price": 70.000,
+        "script": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY GIÒN (NGUYÊN LIỆU LÀM KẸO NOUGAT) - ĐỒ ĂN VẶT - ĂN VẶT - BÁCH HÓA ONLINE UY TÍN - ăn vặt siêu ngon",
+        "scriptCut": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY...",
+        "id": 13,
+        "sold": 106
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/69f38a7929e561d8128bf169253d9e87.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 430.000,
+        "sale": "-56%",
+        "price": 190.000,
+        "script": "Loa bluetooth mini karaoke kèm mic GOOJODOQ Không dây Bass cực mạnh - Bảo hành chính hãng",
+        "scriptCut": "Loa bluetooth mini karaoke kèm mic...",
+        "id": 14,
+        "sold": 3488
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/ef75f53843850860abe4ad4f1a94d916.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 90.000,
+        "sale": "-24%",
+        "price": 68.000,
+        "script": "Kẹo dừa non lá dứa cuộn bánh tráng thơm ngon 200g/ 500g/ 1kg - bánh kẹo tết - mứt tết - đồ ăn vặt",
+        "scriptCut": "Kẹo dừa non lá dứa cuộn bánh tráng thơm...",
+        "id": 15,
+        "sold":709 
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/e86a2c1a6b7e004c2d874441d0ccc814.jpg_400x400q80.jpg_.webpp",
+        "priceFirst": 100.000,
+        "sale": "-37%",
+        "price": 63.000,
+        "script": "Súng bắn bong bóng súng phun bong bóng 32 nòng có đèn siêu hot",
+        "scriptCut": "Súng bắn bong bóng súng phun bong...",
+        "id": 16,
+        "sold":  421
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/2faef0e3976ece7548e9c0cea1b52976.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 249.000,
+        "sale": "-47%",
+        "price": 131.000,
+        "script": "Pin Sạc Dự Phòng Dung Lượng Cao 20000mAh 4 Đầu Ra Cho Thiết Bị Di Động,Tích Hợp Đèn Pin Ban Đêm",
+        "scriptCut": "Pin Sạc Dự Phòng Dung Lượng Ca...",
+        "id": 17,
+        "sold":  506
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/ccd53bee50653928c85316e4634beab7.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 129.000,
+        "sale": "-29%",
+        "price": 91.000,
+        "script": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ tay lò xo đàn hồi Titan 20kg, 30kg, 40kg, 50kg, 60kg kháng lực tập gym ZataVn - GTT",
+        "scriptCut": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ...",
+        "id": 18,
+        "sold":  322
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/c11ef9f086c57c938d16a69abdb90eaa.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 90.000,
+        "sale": "-10%",
+        "price": 70.000,
+        "script": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY GIÒN (NGUYÊN LIỆU LÀM KẸO NOUGAT) - ĐỒ ĂN VẶT - ĂN VẶT - BÁCH HÓA ONLINE UY TÍN - ăn vặt siêu ngon",
+        "scriptCut": "[HCM][SALE] DÂU TÂY NGUYÊN QUẢ SẤY...",
+        "id": 19,
+        "sold": 106
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/69f38a7929e561d8128bf169253d9e87.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 430.000,
+        "sale": "-56%",
+        "price": 190.000,
+        "script": "Loa bluetooth mini karaoke kèm mic GOOJODOQ Không dây Bass cực mạnh - Bảo hành chính hãng",
+        "scriptCut": "Loa bluetooth mini karaoke kèm mic...",
+        "id": 20,
+        "sold": 3488
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/ef75f53843850860abe4ad4f1a94d916.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 90.000,
+        "sale": "-24%",
+        "price": 68.000,
+        "script": "Kẹo dừa non lá dứa cuộn bánh tráng thơm ngon 200g/ 500g/ 1kg - bánh kẹo tết - mứt tết - đồ ăn vặt",
+        "scriptCut": "Kẹo dừa non lá dứa cuộn bánh tráng thơm...",
+        "id": 21,
+        "sold":709 
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/e86a2c1a6b7e004c2d874441d0ccc814.jpg_400x400q80.jpg_.webpp",
+        "priceFirst": 100.000,
+        "sale": "-37%",
+        "price": 63.000,
+        "script": "Súng bắn bong bóng súng phun bong bóng 32 nòng có đèn siêu hot",
+        "scriptCut": "Súng bắn bong bóng súng phun bong...",
+        "id": 22,
+        "sold":  421
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/2faef0e3976ece7548e9c0cea1b52976.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 249.000,
+        "sale": "-47%",
+        "price": 131.000,
+        "script": "Pin Sạc Dự Phòng Dung Lượng Cao 20000mAh 4 Đầu Ra Cho Thiết Bị Di Động,Tích Hợp Đèn Pin Ban Đêm",
+        "scriptCut": "Pin Sạc Dự Phòng Dung Lượng Ca...",
+        "id": 23,
+        "sold":  506
+      },
+      {
+        "img": "https://lzd-img-global.slatic.net/g/p/ccd53bee50653928c85316e4634beab7.jpg_400x400q80.jpg_.webp",
+        "priceFirst": 129.000,
+        "sale": "-29%",
+        "price": 91.000,
+        "script": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ tay lò xo đàn hồi Titan 20kg, 30kg, 40kg, 50kg, 60kg kháng lực tập gym ZataVn - GTT",
+        "scriptCut": "Gậy tập cơ tay ZATA, Gậy bẻ tập cơ...",
+        "id": 24,
+        "sold":  322
+      }
+  ],
+  "option-global":[
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/b850f275-9e0c-4e9c-890d-de9bcc0793ff_VN-80-80.png_170x170q80.png_.webp",
+      "title": "Taobao Collection",
+      "id": 1
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/2e3ae12f-456c-452b-8ad0-d38c0d676331_VN-80-80.png_170x170q80.png_.webp",
+      "title": "Thời Trang Nữ",
+      "id": 2
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/82970054-5593-468f-bb19-220de6005c05_VN-80-80.png_170x170q80.png_.webp",
+      "title": "Thời Trang Nam",
+      "id": 3
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/78ffcc85-4e00-4993-8e2a-90ee3d236c01_VN-80-80.png_170x170q80.png_.webp",
+      "title": "Hàng Mới",
+      "id": 4
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/c05ad2ff-b2c7-44ad-8dbd-cb27299e1765_VN-80-80.jpg_170x170q80.jpg_.webp",
+      "title": "Điện Tử",
+      "id": 5
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/29aba247-7e4e-4f1a-9f2f-44ae81c92332_VN-80-80.png_170x170q80.png_.webp",
+      "title": "Làm Đẹp",
+      "id": 6
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/cf46424d-ef5f-4df2-8299-47f4f687607b_VN-80-80.png_170x170q80.png_.webp",
+      "title": "Nhà Cửa",
+      "id": 7
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/a25f2d3c-c4a2-4471-83ce-6b81ef796d6d_VN-80-80.jpg_170x170q80.jpg_.webp",
+      "title": "Mẹ Bé - Đồ Chơi",
+      "id": 8
+    },
+    {
+      "img": "https://lzd-img-global.slatic.net/g/gcp/lazada/9dde22c1-bf3f-442b-855c-df4b0cd615f9_VN-80-80.jpg_170x170q80.jpg_.webp",
+      "title": "Thể Thao",
+      "id": 9
+    }
+  ],
+  "sale-global":[
+    {
+      "id": 1,
+      "sale": 23,
+      "sold": 1319,
+      "img":"https://lzd-img-global.slatic.net/g/p/3fd1fe32dda741e0e8ed2b187fc8ba2f.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 73.037,
+      "script": "Tai Nghe Bluetooth Không Dây Stereo A6S",
+      "scriptCut": "Tai Nghe Bluetooth Không Dây St..."
+    },
+    {
+      "id": 2,
+      "sale": 23,
+      "sold": 30,
+      "img":"https://lzd-img-global.slatic.net/g/p/01be28a3631af68b12381e7a1690d956.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 25.674,
+      "script": "Hạnh Phúc Hành Tinh Phi Hành Gia Kim Loại Mở Có Thể Điều Chỉnh Phi Hành Gia đá màu ánh trăng Nhẫn đôi Món Quà Kỳ Nghỉ Mũ sắt",
+      "scriptCut": "Hạnh Phúc Hành Tinh Phi Hành Gia..."
+    },
+    {
+      "id": 3,
+      "sale": 34,
+      "sold": 19,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/S39f7292936af4603832063799d4bdf3fr.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 35.023,
+      "script": "Sữa Chua Đông Khô Miếng Khô Ăn Hoa Quả Dâu Tây Khô Hỗn Hợp Nước Trái Cây Sữa Chua Bánh Mì Nổi Tiếng Trên Mạng Đồ Ăn Vặt Cho Trẻ Em",
+      "scriptCut":"Sữa Chua Đông Khô Miếng Khô Ăn..."
+    },
+    {
+      "id": 4,
+      "sale": 23,
+      "sold": 1319,
+      "img":"https://lzd-img-global.slatic.net/g/p/85115f4272f9dc66ad7e162e3a5a57f1.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 73.037,
+      "script": "Tai Nghe Không Dây Pro6 TWS Kiểm Soát Bằng Chạm Bluetooth 5.0 Tai Nghe Thể Thao",
+      "scriptCut": "Tai Nghe Không Dây Pro6 TWS Kiểm ..."
+
+    },
+    {
+      "id": 5,
+      "sale": 23,
+      "sold": 670,
+      "img":"https://lzd-img-global.slatic.net/g/p/b6b8c026124842003f846d034e899e4c.png_720x720q80.png_.webp",
+      "priceFirst": 25.492,
+      "script": "Maidu Vòng Tay Kim Cương Pha Lê Cho Nữ Roman",
+      "scriptCut": "Maidu Vòng Tay Kim Cương Pha..."
+    },
+    {
+      "id": 6,
+      "sale": 20,
+      "sold": 2900,
+      "img":"https://lzd-img-global.slatic.net/g/p/dc0e686d12d207cdd9afab54acadcb61.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 36.408,
+      "script": "Máy tính Gấu Nhỏ hoạt hình dễ thương phiên bản Hàn Quốc thời trang mini cầm tay máy tính nhỏ cầm tay máy tính trường học chính",
+      "scriptCut":"Máy tính Gấu Nhỏ hoạt hình dễ..."
+    },
+    {
+      "id": 7,
+      "sale": 47,
+      "sold": 822,
+      "img":"https://lzd-img-global.slatic.net/g/p/59effef037e1a728d7ddb444454a06f8.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 61.751,
+      "script": "Đèn Lồng Xách Tay Tết Trung Thu Đèn Thỏ Phong Cách Cổ Đèn Trang Trí Túi Vật Liệu DIY Làm Thủ Công Mẫu Giáo Lễ Quốc Khánh",
+      "scriptCut":"Đèn Lồng Xách Tay Tết Trung..."
+    },
+    {
+      "id": 8,
+      "sale": 52,
+      "sold": 55,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/Sa6eea9e1bb604dacb857e7c415ddb9ddT.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 61.324,
+      "script": "Sổ Vẽ Trống Màu Tô Màu Tô Màu Cho Trẻ Em Sổ Vẽ Tranh Sổ Vẽ Tranh Hoạt Hình Khai Sáng Mẫu Giáo 2-3-6 Tuổi",
+      "scriptCut":"Sổ Vẽ Trống Màu Tô Màu Tô Màu..."
+    },
+    {
+      "id": 9,
+      "sale": 56,
+      "sold": 40,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/S69f21da247664773a7f9f3c93c2e5cf6Q.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 116.456,
+      "script": "Trẻ Em 3-6 Tuổi Mẫu Giáo Khối Vuông Số Chữ Cái Nhựa Ghép Hình Đồ Chơi Phát Triển Trí Tuệ Lắp Ghép Cho Bé Gái",
+      "scriptCut": "Trẻ Em 3-6 Tuổi Mẫu Giáo Khối..."
+    },
+    {
+      "id": 10,
+      "sale": 48,
+      "sold": 272,
+      "img":"https://lzd-img-global.slatic.net/g/p/e185a0147a44280771700491f5669afd.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 309.223,
+      "script": "TWS Tai nghe bluetooth realfit F1 Mini tai nghe gắn tai không dây với đáng yêu bảo vệ trường hợp",
+      "scriptCut": "TWS Tai nghe bluetooth realfit F1..."
+    },
+    {
+      "id": 11,
+      "sale": 23,
+      "sold": 738,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/S5f139221d37842118f9e7aa984fe3d89a.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 77.2124,
+      "script": "Túi Đeo Vai Họa Tiết Cá Sấu Ngày Hè Cho Nữ",
+      "scriptCut": "Túi Đeo Vai Họa Tiết Cá Sấu Ngày..."
+    },
+    {
+      "id": 12,
+      "sale": 23,
+      "sold": 675,
+      "img":"https://lzd-img-global.slatic.net/g/p/599ff213a0653600b6e6538ee01d7dc2.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 56.124,
+      "script": "Dây chuyền hình con tuần lộc Giáng Sinh thời trang dành cho phụ nữ, nổi bật với viên Zircon lấp lánh",
+      "scriptCut": "Dây chuyền hình con tuần lộc..."
+    }
+  ],
+  "Phone-global":[
+    {
+      "id": 1,
+      "sale": 48,
+      "sold": 139,
+      "img":"https://lzd-img-global.slatic.net/g/p/3d699dafec7aae7935b295af450ea96e.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 75.009,
+      "script": "[ốp lưng iPhone 15]Rocoren Dày Trong Suốt Ốp điện thoại chống sốc Silicon Với bọc hoàn toàn Bảo Vệ Máy Ảnh Cho iPhone 15 Pro",
+      "scriptCut": "[ốp lưng iPhone 15]Rocoren Dày..."
+    },
+    {
+      "id": 2,
+      "sale": 48,
+      "sold": 30,
+      "img":"https://lzd-img-global.slatic.net/g/p/0e54b174ec785f72367527958cec8029.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 31.667,
+      "script": "Rocoren 100W USB C Để loại USB C Cáp Nhanh Chóng Sạc dây sạc USB-C 5A TypeC Dây cáp cho Macbook Samsung Xiaomi POCO",
+      "scriptCut": "Rocoren 100W USB C Để loại USB..."
+    },
+    {
+      "id": 3,
+      "sale": 69,
+      "sold": 199,
+      "img":"https://lzd-img-global.slatic.net/g/p/484bef979ac52bd2453f650a2d00d0c9.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 187.001,
+      "script": "SmartDevil Ống Kính Toàn Màn Hình Kính Cường Lực Cho iPhone 14 Pro max iPhone 15 Pro Max iPhone 13 Pro max 12 Pro max 11 Pro max 15 Plus14 Plus Điện Thoại Di Động Ống Kính Bảo Vệ Phim Chống Trầy Xước Và Ống Kính Kim Cương Chống Mài Mòn",
+      "scriptCut":"SmartDevil Ống Kính Toàn Màn Hình Kính..."
+    },
+    {
+      "id": 4,
+      "sale": 40,
+      "sold": 39,
+      "img":"https://lzd-img-global.slatic.net/g/p/ae0c72e6f8600d77d1636b19cbe31f8d.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 999.999,
+      "script": "KUULAA 5000mAh Wireless PowerBank 15W Wireless Pin Sạc Dự Phòng Không Dây Tích Hợp Nam Châm Fast Charging Power Bank Portable Mini Size Thinnest 8.6mm Non-slip Silicone Wireless Charging For iPhone 8-14 Series",
+      "scriptCut": "KUULAA 5000mAh Wireless PowerBank..."
+
+    },
+    {
+      "id": 5,
+      "sale": 29,
+      "sold": 670,
+      "img":"https://lzd-img-global.slatic.net/g/p/b2b5e1b36c46fa48f3c8a537345329e1.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 74.333,
+      "script": "Mạ Magsafe Sạc từ Trường Hợp Đối Với iPhone 15 Pro Max 2023 Iphone15 14 Cộng Với 15 14 Pro iPhone 15 14 Promax 5G 6.7 ống kính inch Bảo Vệ vỏ trong suốt",
+      "scriptCut": "Mạ Magsafe Sạc từ Trường Hợp..."
+    },
+    {
+      "id": 6,
+      "sale": 58,
+      "sold": 2900,
+      "img":"https://lzd-img-global.slatic.net/g/p/e830d16a6ecdbe127ae22ec609e361f3.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 196.089,
+      "script": "SmartDevil Bảo vệ màn hình cho iPhone 14 Pro max iPhone 13 Pro max 12 Pro max 11 Pro max X XS XR XsMax 14 Plus 13 mini iPhone SE 3 SE 2 7plus 8plus 7 8 6plus 6s plus điện thoại di động Full Coverage tempered Glass Film , clear Anti-fingerprin",
+      "scriptCut":"SmartDevil Bảo vệ màn hình cho..."
+    },
+    {
+      "id": 7,
+      "sale": 49,
+      "sold": 22,
+      "img":"https://lzd-img-global.slatic.net/g/p/5cf294c380c6622a108b3e5129795b10.png_720x720q80.png_.webp",
+      "priceFirst": 53.465,
+      "script": "Kebidumei 3 trong 1 66W 5A nhanh chóng sạc loại USB C Cáp 3A Micro USB mùa xuân điện thoại trong xe ô tô Cáp sạc",
+      "scriptCut":"Kebidumei 3 trong 1 66W 5A nhanh..."
+    },
+    {
+      "id": 8,
+      "sale": 52,
+      "sold": 55,
+      "img":"https://lzd-img-global.slatic.net/g/p/a1df7c82087d4d7c5da620b21f8b0147.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 300.003,
+      "script": "Usams pd30w Loại-C sạc nhanh pd3.0 qc4.0 2 Pin rắc cắm Châu Âu USB-C xách tay Sạc nhanh cho iPhone 14 Pro Max cho Macbook cho iaomi cho Samsung",
+      "scriptCut":"Usams pd30w Loại-C sạc nhanh pd3.0 qc4..."
+    },
+    {
+      "id": 9,
+      "sale": 74,
+      "sold": 55,
+      "img":"https://lzd-img-global.slatic.net/g/p/cc054f117ce0d0f1803b4c37d6154330.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 100.999,
+      "script": "MissConnie Nhỏ hoạt hình dễ thương Quái Vật Trường Hợp Tương Thích Cho iPhone 11 14 13 12 Pro Max 7 8 6 6S Cộng Với XR X XS Max 7 Cộng Với SE 2020 3D Lượn Sóng cạnh cong Mềm Bìa Với Khung giá đỡ điện thoại",
+      "scriptCut": "MissConnie Nhỏ hoạt hình dễ thương..."
+    },
+    {
+      "id": 10,
+      "sale": 54,
+      "sold": 34,
+      "img":"https://lzd-img-global.slatic.net/g/p/396ff4550594ea2c424894cc7044e5d6.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 372.334,
+      "script": "SmartDevil Miếng Bảo Vệ Màn Hình Riêng Tư 360 ° Cho iPhone 14 Pro Max 13 Pro Max 12 Pro Max 11 Pro Max X XS XR XsMax 14 Plus 13 Miếng Kính Cường Lực Che Phủ Toàn Bộ Điện Thoại Di Động Mini, Chống Bụi Chống Nhìn Trộm Chống Vân Tay",
+      "scriptCut": "SmartDevil Miếng Bảo Vệ Màn Hình..."
+    },
+    {
+      "id": 11,
+      "sale": 49,
+      "sold": 799,
+      "img":"https://lzd-img-global.slatic.net/g/p/70ac698102dba1000c5cc7fe508af600.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 271.287,
+      "script": "Kebigumei USB 4.0 Cáp dữ liệu Loại C Để C Pd 240W Nhanh Chóng Sạc 40Gbps 8K 60Hz Cáp Cho Máy Tính Điện Thoại",
+      "scriptCut": "Kebigumei USB 4.0 Cáp dữ liệu..."
+    },
+    {
+      "id": 12,
+      "sale": 59,
+      "sold": 65,
+      "img":"https://lzd-img-global.slatic.net/g/p/945671c7981ed0b8691aae720789dee9.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 990.998,
+      "script": "Usams 65W gan sạc nhanh sạc nhanh 4.0 3.0 sạc điện thoại USB loại di động C sạc PD cho Macbook iPad Pro iPhone Xiaomi",
+      "scriptCut": "Usams 65W gan sạc nhanh sạc nhanh..."
+    }
+  ],
+  "Fashion-global":[
+    {
+      "id": 1,
+      "sale": 56,
+      "sold": 139,
+      "img":"https://lzd-img-global.slatic.net/g/p/706eb63bb68e9ba9cad79f5ba4c1e32c.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 754.009,
+      "script": "Natlux Áo Len áo thu đông nữ áo khoác cardigan A21K0I4 Chất lượng cao Thời trang Thanh lịch Đẹp A21K0I4-1 37Z230915",
+      "scriptCut": "Natlux Áo Len áo thu đông nữ áo..."
+    },
+    {
+      "id": 2,
+      "sale": 56,
+      "sold": 555,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/Sefc42fc45cce4a7ea158a877cc004dbde.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 425.678,
+      "script": "Bốt Martin Độn Cao Thân Hình Nhỏ Giày Nữ Cao Cổ Phong Cách Anh Bốt Một Lớp Đế Dày Mùa Xuân Thu 2023 Bốt Ống Vừa Màu Trắng",
+      "scriptCut": "Bốt Martin Độn Cao Thân Hình..."
+    },
+    {
+      "id": 3,
+      "sale": 50,
+      "sold": 19,
+      "img":"https://lzd-img-global.slatic.net/g/p/be957959cf56af8adb2ec9de1e6fdb62.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 187.001,
+      "script": "Váy Ngắn Bó Sát Siêu Đàn Hồi To Ngực Lộ Ngực Hở Gợi Cảm Hot Trên Mạng Gegejia Váy Liền Ôm Mông Kiểu Rách Nữ",
+      "scriptCut":"Váy Ngắn Bó Sát Siêu Đàn Hồi..."
+    },
+    {
+      "id": 4,
+      "sale": 78,
+      "sold": 678,
+      "img":"https://lzd-img-global.slatic.net/g/p/2da21e5db3f79a25b0bfb578f23504e9.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 999.999,
+      "script": "XINLANYASHE khăn choàng dày hơn khăn choàng cashmere dày khăn quàng hàn quốc Khăn choàng màu tinh khiết, tình trạng tốt. Đa chức năng dày hơn. cái mền chăn ngủ văn phòng khăn choàng di động chăn lười chăn nỉ khăn choàng khăn choàng",
+      "scriptCut": "XINLANYASHE khăn choàng dày hơn..."
+
+    },
+    {
+      "id": 5,
+      "sale": 89,
+      "sold": 60,
+      "img":"https://lzd-img-global.slatic.net/g/p/edfc1a21ce275fdd97c5898a53c2379f.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 744.333,
+      "script": "MFS Bốt Martin Bốt Ngắn Martin Da Mềm Thoải Mái Đế Cao Đế Tròn Cổ Điển Nữ Đế Bệt",
+      "scriptCut": "MFS Bốt Martin Bốt Ngắn Martin..."
+    },
+    {
+      "id": 6,
+      "sale": 45,
+      "sold": 270,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/S8d8197a3c5414f2bbee2d15d64dc8693A.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 196.089,
+      "script": "Trang Phục Làm Việc Thợ Hàn Điện Công Trường Mặc Làm Việc Chống Bỏng Chịu Mài Mòn Jacket Bò Dài Tay Lót Lông Thu Đông Cho Nam Áo Khoác Áo",
+      "scriptCut":"Trang Phục Làm Việc Thợ Hàn Điện..."
+    },
+    {
+      "id": 7,
+      "sale": 9,
+      "sold": 22,
+      "img":"https://lzd-img-global.slatic.net/g/p/239909026efc799afcb386f055c96800.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 126.465,
+      "script": "Giày Đi Mưa Cổ Thấp Mùa Hè 2023 Giày Cao Su Chống Nước Cho Nam Đầu Bếp Nhà Bếp Làm Việc Bảo Hộ Lao Động Chịu Mài Mòn Chống Trượt Đế Mềm Lót Bông",
+      "scriptCut":"Giày Đi Mưa Cổ Thấp Mùa Hè 2023h..."
+    },
+    {
+      "id": 8,
+      "sale": 48,
+      "sold": 134,
+      "img":"https://lzd-img-global.slatic.net/g/p/719f713d8c2a322da96e1b8e400a0834.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 350.003,
+      "script": "Áo Khoác Ngắn Lông Hải Mã Áo Len Áo Cổ Chữ V Dài Tay Rộng Rãi Lười Biếng Khí Chất Phong Cách Hàn Quốc Mẫu Mới Mùa Thu Năm 2022 Cho Nữ",
+      "scriptCut":"Áo Khoác Ngắn Lông Hải Mã Áo Len..."
+    },
+    {
+      "id": 9,
+      "sale": 74,
+      "sold": 33,
+      "img":"https://lzd-img-global.slatic.net/g/p/50a649ac7846ae3a408c44fdf677bad8.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 150.999,
+      "script": "Trang Phục Nữ Phong Cách Hàn Quốc Áo Khoác Vest Nhỏ Tôn Dáng Âu Phục Trang Phục Mùa Xuân Thu Cho Nữ Áo Thường Ngày Mẫu Mới Công Sở",
+      "scriptCut": "Trang Phục Nữ Phong Cách Hàn Quốc..."
+    },
+    {
+      "id": 10,
+      "sale": 76,
+      "sold": 121,
+      "img":"https://lzd-img-global.slatic.net/g/p/854a907fa5ed1d4a4e2e899656a1ff74.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 546.302,
+      "script": "Giày Nam Mẫu Mới 2023 Bốt Martin Mùa Xuân Giày Đế Bằng Cổ Cao Thường Ngày Phong Cách Anh Mùa Hè Cho Nam Bốt Workwear Cổ Cao Vừa",
+      "scriptCut": "Giày Nam Mẫu Mới 2023 Bốt Martin..."
+    },
+    {
+      "id": 11,
+      "sale": 41,
+      "sold": 79,
+      "img":"https://lzd-img-global.slatic.net/g/p/c3e75d9de10b61ac28bf3a4b439e7929.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 210.555,
+      "script": "Áo Da Hải Ninh Áo Khoác Jacket Da Mùa Xuân Thu Trung Niên Da Cừu Da Thật Nam Áo Cho Bố Trung Niên Và Cao Tuổi Dày Dặn Lót Lông",
+      "scriptCut": "Áo Da Hải Ninh Áo Khoác Jacket Da..."
+    },
+    {
+      "id": 12,
+      "sale": 50,
+      "sold": 67,
+      "img":"https://lzd-img-global.slatic.net/g/p/9607e64f023948a1cdf6f21f7ecf63e9.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 196.998,
+      "script": "Áo Hai Dây Cổ Vuông ôm eo kiểu Pháp mới cho nữ duohanzi váy màu đồng nhất",
+      "scriptCut": "Áo Hai Dây Cổ Vuông ôm eo kiểu..."
+    }
+  ],
+  "DeliverExpress-global":[
+    {
+      "id": 1,
+      "sale": 23,
+      "sold": 1319,
+      "img":"https://lzd-img-global.slatic.net/g/p/3fd1fe32dda741e0e8ed2b187fc8ba2f.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 73.037,
+      "script": "Tai Nghe Bluetooth Không Dây Stereo A6S",
+      "scriptCut": "Tai Nghe Bluetooth Không Dây St..."
+    },
+    {
+      "id": 2,
+      "sale": 23,
+      "sold": 30,
+      "img":"https://lzd-img-global.slatic.net/g/p/01be28a3631af68b12381e7a1690d956.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 25.674,
+      "script": "Hạnh Phúc Hành Tinh Phi Hành Gia Kim Loại Mở Có Thể Điều Chỉnh Phi Hành Gia đá màu ánh trăng Nhẫn đôi Món Quà Kỳ Nghỉ Mũ sắt",
+      "scriptCut": "Hạnh Phúc Hành Tinh Phi Hành Gia..."
+    },
+    {
+      "id": 3,
+      "sale": 34,
+      "sold": 19,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/S39f7292936af4603832063799d4bdf3fr.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 35.023,
+      "script": "Sữa Chua Đông Khô Miếng Khô Ăn Hoa Quả Dâu Tây Khô Hỗn Hợp Nước Trái Cây Sữa Chua Bánh Mì Nổi Tiếng Trên Mạng Đồ Ăn Vặt Cho Trẻ Em",
+      "scriptCut":"Sữa Chua Đông Khô Miếng Khô Ăn..."
+    },
+    {
+      "id": 4,
+      "sale": 23,
+      "sold": 1319,
+      "img":"https://lzd-img-global.slatic.net/g/p/85115f4272f9dc66ad7e162e3a5a57f1.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 73.037,
+      "script": "Tai Nghe Không Dây Pro6 TWS Kiểm Soát Bằng Chạm Bluetooth 5.0 Tai Nghe Thể Thao",
+      "scriptCut": "Tai Nghe Không Dây Pro6 TWS Kiểm ..."
+
+    },
+    {
+      "id": 5,
+      "sale": 23,
+      "sold": 670,
+      "img":"https://lzd-img-global.slatic.net/g/p/b6b8c026124842003f846d034e899e4c.png_720x720q80.png_.webp",
+      "priceFirst": 25.492,
+      "script": "Maidu Vòng Tay Kim Cương Pha Lê Cho Nữ Roman",
+      "scriptCut": "Maidu Vòng Tay Kim Cương Pha..."
+    },
+    {
+      "id": 6,
+      "sale": 20,
+      "sold": 2900,
+      "img":"https://lzd-img-global.slatic.net/g/p/dc0e686d12d207cdd9afab54acadcb61.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 36.408,
+      "script": "Máy tính Gấu Nhỏ hoạt hình dễ thương phiên bản Hàn Quốc thời trang mini cầm tay máy tính nhỏ cầm tay máy tính trường học chính",
+      "scriptCut":"Máy tính Gấu Nhỏ hoạt hình dễ..."
+    },
+    {
+      "id": 7,
+      "sale": 47,
+      "sold": 822,
+      "img":"https://lzd-img-global.slatic.net/g/p/59effef037e1a728d7ddb444454a06f8.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 61.751,
+      "script": "Đèn Lồng Xách Tay Tết Trung Thu Đèn Thỏ Phong Cách Cổ Đèn Trang Trí Túi Vật Liệu DIY Làm Thủ Công Mẫu Giáo Lễ Quốc Khánh",
+      "scriptCut":"Đèn Lồng Xách Tay Tết Trung..."
+    },
+    {
+      "id": 8,
+      "sale": 52,
+      "sold": 55,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/Sa6eea9e1bb604dacb857e7c415ddb9ddT.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 61.324,
+      "script": "Sổ Vẽ Trống Màu Tô Màu Tô Màu Cho Trẻ Em Sổ Vẽ Tranh Sổ Vẽ Tranh Hoạt Hình Khai Sáng Mẫu Giáo 2-3-6 Tuổi",
+      "scriptCut":"Sổ Vẽ Trống Màu Tô Màu Tô Màu..."
+    },
+    {
+      "id": 9,
+      "sale": 56,
+      "sold": 40,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/S69f21da247664773a7f9f3c93c2e5cf6Q.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 116.456,
+      "script": "Trẻ Em 3-6 Tuổi Mẫu Giáo Khối Vuông Số Chữ Cái Nhựa Ghép Hình Đồ Chơi Phát Triển Trí Tuệ Lắp Ghép Cho Bé Gái",
+      "scriptCut": "Trẻ Em 3-6 Tuổi Mẫu Giáo Khối..."
+    },
+    {
+      "id": 10,
+      "sale": 48,
+      "sold": 272,
+      "img":"https://lzd-img-global.slatic.net/g/p/e185a0147a44280771700491f5669afd.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 309.223,
+      "script": "TWS Tai nghe bluetooth realfit F1 Mini tai nghe gắn tai không dây với đáng yêu bảo vệ trường hợp",
+      "scriptCut": "TWS Tai nghe bluetooth realfit F1..."
+    },
+    {
+      "id": 11,
+      "sale": 23,
+      "sold": 738,
+      "img":"https://lzd-img-global.slatic.net/g/ff/kf/S5f139221d37842118f9e7aa984fe3d89a.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 77.2124,
+      "script": "Túi Đeo Vai Họa Tiết Cá Sấu Ngày Hè Cho Nữ",
+      "scriptCut": "Túi Đeo Vai Họa Tiết Cá Sấu Ngày..."
+    },
+    {
+      "id": 12,
+      "sale": 23,
+      "sold": 675,
+      "img":"https://lzd-img-global.slatic.net/g/p/599ff213a0653600b6e6538ee01d7dc2.jpg_720x720q80.jpg_.webp",
+      "priceFirst": 56.124,
+      "script": "Dây chuyền hình con tuần lộc Giáng Sinh thời trang dành cho phụ nữ, nổi bật với viên Zircon lấp lánh",
+      "scriptCut": "Dây chuyền hình con tuần lộc..."
+    }
+  ],
+  "FamousBrand-global": [
+    {
+      "id": 1,
+      "img": "https://lzd-img-global.slatic.net/g/p/68835a76386dfc78f5ef4fc50ee084de.jpg_400x400q80.jpg_.webp",
+      "brandImg": "https://lzd-img-global.slatic.net/g/shop/0f3781d3b01a378c1c352d8954504fec.png_150x150q80.png_.webp",
+      "brandName": "Anker",
+      "price": "60.000",
+      "sale":20,
+      "sold": 233
+    },
+    {
+      "id": 2,
+      "img": "https://lzd-img-global.slatic.net/g/p/80192d9fe5f5343890392dac797aa019.jpg_400x400q80.jpg_.webp",
+      "brandImg": "https://lzd-img-global.slatic.net/g/shop/8af51a1d6b992acee956c8559691e118.jpeg_150x150q80.jpg_.webp",
+      "brandName": "Kuulaa",
+      "price": "Giảm tới 50% OFF",
+      "sale":69,
+      "sold": 89
+    },
+    {
+      "id": 3,
+      "img": "https://lzd-img-global.slatic.net/g/p/4a5934d9028afeb1a7cee5cdc668dfbe.jpg_400x400q80.jpg_.webp",
+      "brandImg": "https://lzd-img-global.slatic.net/g/shop/34e4b0bd8fe950c852bd29fe16f9f283.jpeg_150x150q80.jpg_.webp",
+      "brandName": "Blesiya",
+      "price": "Mua 2 giảm 1%",
+      "sale":46,
+      "sold": 566
+    },
+    {
+      "id": 4,
+      "img": "https://lzd-img-global.slatic.net/g/p/bd727e1b88f44d6afe1710cfce975730.jpg_400x400q80.jpg_.webp",
+      "brandImg": "https://lzd-img-global.slatic.net/g/ot/shop/c843ea43e98341a18d11847fcfbba015.jpg_150x150q80.jpg_.webp",
+      "brandName": "SBART Shopping Mall",
+      "price": "16.000",
+      "sale":49,
+      "sold": 344
+    },
+    {
+      "id": 5,
+      "img": "https://lzd-img-global.slatic.net/g/p/6616ab736dd50dcc473c35de01f1ad61.jpg_400x400q80.jpg_.webp",
+      "brandImg": "https://lzd-img-global.slatic.net/g/shop/e56589aa5b8010aa24f2b530c5722576.jpeg_150x150q80.jpg_.webp",
+      "brandName": "Jettingbuy",
+      "price": "1.000",
+      "sale":50,
+      "sold": 23
+    },
+    {
+      "id": 6,
+      "img": "https://lzd-img-global.slatic.net/g/p/40c3b0e8cb876e2782b8e257b93d96b4.jpg_400x400q80.jpg_.webp",
+      "brandImg": "https://lzd-img-global.slatic.net/g/shop/4a8989be45855eda3b4855ccfc6df389.png_150x150q80.png_.webp",
+      "brandName": "Urgreen Global",
+      "price": "10.000",
+      "sale":10,
+      "sold": 34
+    }
+  ]
+}
