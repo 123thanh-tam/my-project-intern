@@ -38,6 +38,7 @@ const routes = [
   },
   {
     path: "/cartItem/:script/cartItem/:id",
+
     name: "cartItem",
     component: () => import("../components/Cart/CartItem.vue"),
   },

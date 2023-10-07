@@ -27,7 +27,7 @@
 							<h6 class="text-xs mb-2">Mật khẩu*</h6>
 							<input v-model="formInput.password" type="text" class="w-96 outline-none py-2 px-3 border-1px border-gray-300" placeholder="Tối thiểu 8 ký tự với số, chữ cái và ký tự">
 							<p class="w-96 text-xs text-red-700">{{ValidatePass ? "" : "Mật khẩu phải có ít nhất một số, một chữ in hoa, một chữ in thường và kí tự đặc biệt"}}</p>
-							<p id="errPass" class="text-xs text-red-700">[ </p>
+							<p id="errPass" class="text-xs text-red-700"></p>
 						</div>
 						<div class="">
 							<div class="flex justify-between mt-5">
@@ -48,6 +48,9 @@
 							</select>
 							<select name="" id="" class="mr-3 text-gray-400 h-9 px-2 pb-1 leading-9 border-1px border-b-1px border-gray-300">
 								<option value="Năm">Năm</option>
+
+								
+								
 								<option v-for="year in years" :key="year" :value="year">
 									{{ year}}
 								</option>
@@ -68,8 +71,9 @@
 							<p id="errName" class="text-xs text-red-700"></p>
 						</div>
 						<div class="mt-6">
-							<input type="checkbox" class="outline-none w-5 h-5">
+							<input id="checkbox" type="checkbox" class="outline-none w-5 h-5">
 							<span class="inline-block text-xs ml-2 text-gray-500">Tôi muốn cập nhật thông tin ưu đãi qua SMS</span>
+							<p class="text-xs text-red-700 " id="errCheck"></p>
 						</div>
 						<p @click="submitForm" class="mt-3 text-sm cursor-pointer w-19rem h-11 leading-44px text-center text-white bg-orange-custome rounded-sm hover:bg-login-hover">ĐĂNG KÝ</p>
 						<div>
@@ -156,24 +160,47 @@ computed : {
   },
 	methods:{
 		submitForm(){
+			var isChecked = document.getElementById("checkbox")
+			var phoneErr = document.getElementById('errPhone')
+			var passErr = document.getElementById('errPass')
+			var nameErr = document.getElementById('errName')
+			var checkErr = document.getElementById('errCheck')
 			let phoneRegex= /(84|0[3|5|7|8|9])+([0-9]{8})\b/;
 			let passRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/
 			let fullNameRegex= /[a-zA-Z_ÀÁÂÃÈÉÊẾÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêếìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]/
-			if(phoneRegex.test(this.formInput.phoneNumber &&
-			passRegex.test(this.formInput.password &&
-			fullNameRegex.test(this.formInput.fullName)))){
-				alert("Đăng kí thành công")
-				phoneErr.innerHTML= ""
-					passErr.innerHTML= ""
-					nameErr.innerHTML= ""
+			if(phoneRegex.test(this.formInput.phoneNumber) &&
+			passRegex.test(this.formInput.password) &&
+			fullNameRegex.test(this.formInput.fullName) && isChecked.checked){
+				setTimeout(()=>{
+					alert("Đăng kí thành công")
+					return
+				}, "1000")
+				phoneErr.innerHTML=""
+				passErr.innerHTML= ""
+				nameErr.innerHTML= ""
+				checkErr.innerHTML= ""
 			}
-			if(this.formInput.phoneNumber==="" && this.formInput.password==="" && this.formInput.fullName===""){
-					var phoneErr = document.getElementById('errPhone')
-					var passErr = document.getElementById('errPass')
-					var nameErr = document.getElementById('errName')
+			if(this.formInput.phoneNumber==="" && this.formInput.password==="" && this.formInput.fullName==="" && !isChecked.checked){
 					phoneErr.innerHTML= this.MessErr
 					passErr.innerHTML= this.MessErr
 					nameErr.innerHTML= this.MessErr
+					checkErr.innerHTML= "Vui lòng xác nhận"
+			}if(this.formInput.phoneNumber===""){
+				phoneErr.innerHTML= this.MessErr
+			}if( this.formInput.password===""){
+				passErr.innerHTML= this.MessErr
+			} if( this.formInput.fullName===""){
+				nameErr.innerHTML= this.MessErr
+			} if(!isChecked.checked){
+				checkErr.innerHTML= "Vui lòng xác nhận"
+			}if(phoneRegex.test(this.formInput.phoneNumber)){
+				phoneErr.innerHTML=""
+			}if( passRegex.test(this.formInput.password)){
+				passErr.innerHTML= ""
+			} if(fullNameRegex.test(this.formInput.fullName)){
+				nameErr.innerHTML= ""
+			}if(isChecked.checked){
+				checkErr.innerHTML= ""
 			}
 		}
 	}
